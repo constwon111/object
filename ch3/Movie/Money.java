@@ -1,3 +1,4 @@
+package ch3.Movie;
 import java.math.BigDecimal;
 
 public class Money {

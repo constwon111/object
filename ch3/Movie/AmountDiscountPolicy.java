@@ -1,3 +1,4 @@
+package ch3.Movie;
 public class AmountDiscountPolicy extends DiscountPolicy {
     private Money discountAmount;
 

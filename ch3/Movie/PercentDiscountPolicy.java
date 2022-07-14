@@ -1,3 +1,4 @@
+package ch3.Movie;
 public class PercentDiscountPolicy extends DiscountPolicy {
     private double percent;
 

@@ -1,3 +1,4 @@
+package ch3.Movie;
 import java.time.DayOfWeek;
 import java.time.LocalTime;
 import java.time.Period;
